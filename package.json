@@ -1,5 +1,5 @@
 {
-  "name": "react-coming-soon-page",
+  "name": "ecolection-coming-soon-page",
   "version": "1.0.0",
   "description": "React site under contruction page to showcase countdown timer and opt-in form components.",
   "keywords": [],
@@ -18,10 +18,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
